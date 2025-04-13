@@ -1,3 +1,11 @@
+# SECCIF Affiliate Data Analysis
+
+This repository contains an **exploratory data analysis (EDA)** of the affiliate database of the **Spanish Society of Criminology and Forensic Sciences (SECCIF)**. The goal is to uncover patterns in the professional and geographic distribution of members in order to propose data-driven recruitment strategies.
+
+> ⚠️ **Note**: This is *not* an official report. It is an initial exploratory effort designed to generate quick insights that may help guide further research or strategic decisions.
+
+---
+
 ## 📊 Project Overview
 
 The project includes:
@@ -8,6 +16,12 @@ The project includes:
   - **Profession**
 - Identification of dominant patterns and underrepresented profiles
 - Proposal of outreach strategies based on observed trends
+
+---
+
+## 📁 Repository Structure
+
+
 
 ---
 
