@@ -17,11 +17,6 @@ The project includes:
 - Identification of dominant patterns and underrepresented profiles
 - Proposal of outreach strategies based on observed trends
 
----
-
-## 📁 Repository Structure
-
-
 
 ---
 
